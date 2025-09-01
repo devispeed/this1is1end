@@ -1,5 +1,5 @@
 {
-  "maintenance": true,
+  "maintenance": false,
   "message": "نقوم حالياً بصيانة.",
-  "reloadOnResume": true
+  "reloadOnResume": false
 }
